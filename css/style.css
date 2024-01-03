@@ -200,7 +200,10 @@ nav.fixed-top {
   margin: 0 auto;
   padding: 5px;
   font-size: 16px;
-  color: #ffffff;
+  /* color: #ffffff; */
+}
+.frst-hrd{
+  color: black;
 }
 .header h5 {
   font-size: 70px;
